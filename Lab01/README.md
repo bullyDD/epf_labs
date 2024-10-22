@@ -51,15 +51,13 @@ Si c'est pas n'est encore fait, veuillez installer VS code. L'installation de VS
 Obtenir un projet exécutable déjà catalogué dans Alire est une solution simple pour vérifier si l'installation s'est déroulée sans soucis.
 Nous allons donc démarrer avec le projet **hello** qui est une simple **Hello, world** application.
 
-> IMPORTANT :
-
-Alire est un utilitaire disponible en ligne de commande. Il est donc essentiel que l'éxécutable soit présent dans les variables d'environnement de votre
+> IMPORTANT : Alire est un utilitaire disponible en ligne de commande. Il est donc essentiel que l'éxécutable soit présent dans les variables d'environnement de votre
 système.
 
 - Sur windows, il suffit de verifier que Alire est présent dans la variable PATH. Pour cela :
 
 1. Cliquez sur menu démarrer
-2. Saisir variable d'environnement. 
+2. Saisir variable d'environnement
 ![variable environnment](./images/variable_env.PNG)
 
 3. Rechercher la variable PATH et double-cliquez dessus
