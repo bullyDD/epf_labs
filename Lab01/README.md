@@ -21,7 +21,7 @@ Une crate peut dépendre de crates, et d'autres crates peuvent en dépendre auss
 
 L'interface principale de l'écosystème Alire est un outil de ligne de commande appelé **alr**.
 
-## TELECHARGEMENT & INSTALLATION
+### ALIRE : TELECHARGEMENT & INSTALLATION
 
 
 La procédure d'installation peut différée que vous soyez sur une machine avec un système d'exploitation Windows, Linux ou macOS. *
@@ -31,3 +31,13 @@ Veuillez suivre la procédure vous concernant :
 - [Installation Alire sur Windows](https://alire.ada.dev/docs/#alr-on-windows)
 - [Installation Alite sur macOS](https://alire.ada.dev/docs/#alr-on-macos)
 - [Installation Alire sur Linux](https://alire.ada.dev/docs/#alr-on-linux)
+
+
+### VISUAL STUDIO CODE : TELECHARGMENT & INSTALLATION
+
+L'installation de VS code est bien détaillée. Si c'est pas n'est encore fait, vous trouvez toutes les instructions [ici](https://code.visualstudio.com/download).
+
+
+#### TELECHARGEMENT, COMPILATION
+
+Obtenir un projet exécutable déjà catalogué dans Alire est simple. Nous allons le démontrer avec le projet **hello** qui est une simple **Hello, world** application (ou vous pouvez utiliser les projets pendu ou eagle_lander comme alternatives plus amusantes).
