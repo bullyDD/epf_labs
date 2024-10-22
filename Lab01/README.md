@@ -28,6 +28,6 @@ La procédure d'installation peut différée que vous soyez sur une machine avec
 
 Veuillez suivre la procédure vous concernant :
 
-	- [Installation Alire sur Windows](https://alire.ada.dev/docs/#alr-on-windows)
-	- [Installation Alite sur macOS](https://alire.ada.dev/docs/#alr-on-macos)
-	- [Installation Alire sur Linux](https://alire.ada.dev/docs/#alr-on-linux)
+- [Installation Alire sur Windows](https://alire.ada.dev/docs/#alr-on-windows)
+- [Installation Alite sur macOS](https://alire.ada.dev/docs/#alr-on-macos)
+- [Installation Alire sur Linux](https://alire.ada.dev/docs/#alr-on-linux)
