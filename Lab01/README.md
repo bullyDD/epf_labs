@@ -20,3 +20,14 @@ Dans le vocabulaire Alire, les sources de projets/bibliothèques/programmes sont
 Une crate peut dépendre de crates, et d'autres crates peuvent en dépendre aussi.
 
 L'interface principale de l'écosystème Alire est un outil de ligne de commande appelé **alr**.
+
+## TELECHARGEMENT & INSTALLATION
+
+
+La procédure d'installation peut différée que vous soyez sur une machine avec un système d'exploitation Windows, Linux ou macOS. *
+
+Veuillez suivre la procédure vous concernant :
+
+	- [Installation Alire sur Windows](https://alire.ada.dev/docs/#alr-on-windows)
+	- [Installation Alite sur macOS](https://alire.ada.dev/docs/#alr-on-macos)
+	- [Installation Alire sur Linux](https://alire.ada.dev/docs/#alr-on-linux)
