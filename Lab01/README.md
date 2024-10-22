@@ -16,3 +16,7 @@ Alire est un gestionnaire de packages basé sur les sources pour les langages de
 C'est un moyen pour les développeurs de s'appuyer facilement sur des projets (bibliothèques ou programmes) partagés par la communauté, 
 mais aussi de partager facilement leurs projets pour que d'autres puissent s'en servir.
 
+Dans le vocabulaire Alire, les sources de projets/bibliothèques/programmes sont fournies par ce qu'on appelle une crate. 
+Une crate peut dépendre de crates, et d'autres crates peuvent en dépendre aussi.
+
+L'interface principale de l'écosystème Alire est un outil de ligne de commande appelé **alr**.
