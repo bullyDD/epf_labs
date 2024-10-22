@@ -56,20 +56,24 @@ système.
 
 - Sur windows, il suffit de verifier que Alire est présent dans la variable PATH. Pour cela :
 
-1. Cliquez sur menu démarrer et rechercher variable d'environnement
+1. Cliquez sur menu démarrer et rechercher variable d'environnement.
 
 2. Vous devriez avoir une fenetre de dialogue comme ceci :
+
 ![variable environnment](./images/variable_env.PNG)
 
 3. Repérer la variable PATH
+
 ![path](./images/variable_path.PNG)
 
-4. Ouvrez l'explorateur. Si Alire est installé sur C:/Programmes Files/Alire/bin, copier le chemin comme ceci 
+4. Ouvrez l'explorateur. Si Alire est installé sur C:/Programmes Files/Alire/bin, copier le chemin comme ceci :
+
 ![path to copy](./images/path_to_copy.PNG)
 
 5. Revenez sur la fenetre des variables d'environnement, double cliquez sur la variable **PATH**
 
 6. Ensuite double-cliquez sur une nouvelle ligne (vide) pour ajouter le chemin vers l'exécutable d'alire.
+
 ![alire path](./images/alire_path.PNG)
 
 6. Cliquez sur ok et fermer.
