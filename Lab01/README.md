@@ -1,15 +1,20 @@
 # INSTALLATION ENVIRONNEMENT DE TRAVAIL
 
+
 Le développement logiciel pour les systèmes embarqués en Ada nécessite l'installation d'une pile logicielle.
 
+
 ## EDITEUR DE CODE
+
 
 Un éditeur de code est l’endroit où les programmeurs passent la plus grande partie de leur temps.
 Afin de réaliser les séquences de Tds et Tps, Visual code est l'éditeur choisi. VS Code prend en charge presque 
 tous les principaux langages de programmation. Plusieurs sont livrés dans la boîte, comme JavaScript, HTML ...  
-mais des extensions pour d'autres peuvent être trouvées sur VS Code Marketplace.
+mais des extensions pour d'autres peuvent être trouvées sur VS Code Marketplace
+
 
 ## GESTIONNAIRE DE PACKAGES
+
 
 Alire est un gestionnaire de packages basé sur les sources pour les langages de programmation Ada et SPARK.
 
@@ -21,12 +26,13 @@ Une crate peut dépendre de crates, et d'autres crates peuvent en dépendre auss
 
 L'interface principale de l'écosystème Alire est un outil de ligne de commande appelé **alr**.
 
+
 ### ALIRE : TELECHARGEMENT & INSTALLATION
 
 
-La procédure d'installation peut différée que vous soyez sur une machine avec un système d'exploitation Windows, Linux ou macOS. *
-
+La procédure d'installation peut différée que vous soyez sur une machine avec un système d'exploitation Windows, Linux ou macOS.
 Veuillez suivre la procédure vous concernant :
+
 
 - [Installation Alire sur Windows](https://alire.ada.dev/docs/#alr-on-windows)
 - [Installation Alite sur macOS](https://alire.ada.dev/docs/#alr-on-macos)
@@ -35,9 +41,14 @@ Veuillez suivre la procédure vous concernant :
 
 ### VISUAL STUDIO CODE : TELECHARGMENT & INSTALLATION
 
+
 L'installation de VS code est bien détaillée. Si c'est pas n'est encore fait, vous trouvez toutes les instructions [ici](https://code.visualstudio.com/download).
 
 
-#### TELECHARGEMENT, COMPILATION
+### TELECHARGEMENT PROJETS DE TEST
 
-Obtenir un projet exécutable déjà catalogué dans Alire est simple. Nous allons le démontrer avec le projet **hello** qui est une simple **Hello, world** application (ou vous pouvez utiliser les projets pendu ou eagle_lander comme alternatives plus amusantes).
+
+Obtenir un projet exécutable déjà catalogué dans Alire est une solution simple pour vérifier si l'installation s'est déroulée sans soucis.
+Nous allons donc démarrer avec le projet **hello** qui est une simple **Hello, world** application.
+
+
