@@ -63,4 +63,4 @@ système.
 3. Rechercher la variable PATH
 4. Ajouter le chemin vers l'exécutable d'alire. Exemple si Alire est installé sur C:/Programmes Files/Alire/bin
 
-![alire path](./images/alire_path.png)
+![alire path](./images/alire_path.PNG)
