@@ -56,11 +56,19 @@ Nous allons donc démarrer avec le projet **hello** qui est une simple **Hello, 
 Alire est un utilitaire disponible en ligne de commande. Il est donc essentiel que l'éxécutable soit présent dans les variables d'environnement de votre
 système.
 
-- Sur windows, il suffit de verifier que Alire dans la variable PATH
+- Sur windows, il suffit de verifier que Alire est présent dans la variable PATH. Pour cela :
 
 1. Cliquez sur menu démarrer
-2. Saisir variable d'environnement
-3. Rechercher la variable PATH
-4. Ajouter le chemin vers l'exécutable d'alire. Exemple si Alire est installé sur C:/Programmes Files/Alire/bin
+2. Saisir variable d'environnement. 
+![variable environnment](./images/variable_env.PNG)
 
+3. Rechercher la variable PATH et double-cliquez dessus
+![path](./images/variable_path.PNG)
+
+4. Double cliquez sur une nouvelle ligne (vide) pour ajouter le chemin vers l'exécutable d'alire. Exemple si Alire est installé sur C:/Programmes Files/Alire/bin, copier le chemin comme ceci 
+![path to copy](./images/path_to_copy.PNG)
+
+5. Le resultat final doit etre ceci.
 ![alire path](./images/alire_path.PNG)
+
+6. Cliquez sur ok et fermer.
